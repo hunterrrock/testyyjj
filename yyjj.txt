@@ -2,4 +2,4 @@ edit by yyjj
 edit number 1
 edit number 2 by yyjj
 edit test diff@2
-edit by hot_fix .hot_fix
+edit by hot_fix .hot_fix AND master
